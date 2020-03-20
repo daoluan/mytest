@@ -9,7 +9,7 @@ tinyco is a framework with **high performance and high efficiency** focusing on 
 - Small kernel in size
 - Business code can be easy to read and maintained. No more async framework
 
-![!](https://github.com/daoluan/tinyco/blob/readme/static/img/tinyco_perf_8c.jpg?raw=true)
+![!](https://github.com/daoluan/tinyco/blob/master/static/img/tinyco_perf_8c.jpg?raw=true)
 
 # How to start ?
 Clone tinyco and build it:
